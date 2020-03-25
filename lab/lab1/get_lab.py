@@ -2,7 +2,7 @@ from zlib import crc32
 import numpy as np
 
 if __name__=='__main__':
-    mail = input('enter phystech e-mail\n') 
+    mail = input('kobzeva.an\n') 
     to_hash =  mail.strip().split('@')[0]    
     h = crc32(to_hash.encode('utf-8'))
     seed = h%(2**32-1)
