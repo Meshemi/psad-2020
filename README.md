@@ -1,6 +1,7 @@
 # psad-2020
 
 **[UPD: Запись на устный зачет](https://docs.google.com/spreadsheets/d/1pSJcxdv7KSsR8aACjM5eHizhk-P5Qrxvjk1uz8UGAZE/edit?usp=sharing)**
+
 **[Как получить зачет](zachet.md)** 
 
 **[Лабораторная работа 2](lab/lab2)**
