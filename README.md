@@ -1,10 +1,13 @@
 # psad-2020
 
+**[UPD: Запись на устный зачет](https://docs.google.com/spreadsheets/d/1pSJcxdv7KSsR8aACjM5eHizhk-P5Qrxvjk1uz8UGAZE/edit?usp=sharing)**
+**[Как получить зачет](zachet.md)** 
+
 **[Лабораторная работа 2](lab/lab2)**
 
 Дедлайн: 19 мая, 23.59.
 
-**[Как получить зачет](zachet.md)** 
+
 
 **[Результаты первого задания](https://docs.google.com/spreadsheets/d/1I1XptiPKtn6ss2U9sSDqETJbpVz_0laRVu8xMJRhR9Y/edit?usp=sharing)**
 
