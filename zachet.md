@@ -22,7 +22,7 @@
 
 Без созвона и выполнения условий зачет не будет проставлен.
 
-**[Результаты студентов, претендующих на автомат](https://docs.google.com/spreadsheets/d/1dPpbTGQ9w_SG1mbA-bSAPDHu2i_WKJAtbis-H2-bgNg/edit#gid=0)**
+**[Результаты студентов, претендующих на автомат](https://docs.google.com/spreadsheets/d/1dPpbTGQ9w_SG1mbA-bSAPDHu2i_WKJAtbis-H2-bgNg/edit?usp=sharing)**
 
 ## Что будут спрашивать на зачете
 Вопросы на понимание стат. принципов по всему курсу:
